@@ -1,9 +1,9 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 root: .               # DON'T CHANGE THIS EITHER.  (THANK YOU.)
-country: "FIXME"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
-language: "FIXME"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
-humandate: "FIXME"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+country: "nz"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
+language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
+humandate: "21, 22, 28, 29 Oct 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "FIXME"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: FIXME      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: FIXME        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
